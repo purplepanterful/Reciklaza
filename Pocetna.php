@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="stilovi/stil.css">
 </head>
 <body>
-	
+	<!-- HTML meni -->
 	<div class="heder">
 			<ul>
 				<li class="kliknuta"> <a href="">Početna</a></li>
