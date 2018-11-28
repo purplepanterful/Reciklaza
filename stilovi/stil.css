@@ -1,0 +1,86 @@
+body{
+	max-width: parent-match;
+	height: auto;
+	background-color: #0b6503;
+	background-image: url("../slike/suma-pozadina.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+h1{
+	text-align: center;
+	color: rgb(76, 175, 80);
+
+	
+}
+.heder{
+	
+	background-image: url("../slike/tapeta-heder.jpg");
+	background-repeat: repeat-x;
+
+}
+.heder>ul>li{
+width: 200px;
+height: 30px;
+margin: 3px;
+background-color: rgb(76, 175, 80);
+color: white;
+display: inline-block;
+text-align: center;
+font-size:  130%;
+font-family: Verdana;
+
+}
+.heder>ul>li>a{
+	color: white;
+	text-decoration: none;
+}
+.heder>ul>li:hover{
+	background-color: rgba(76, 175, 80,0.5);
+
+}
+
+.kliknuta{
+	background-color: rgba(76, 175, 80,0.5);
+}
+.registracija{
+	color: white;
+	font-size:  130%;
+	font-family: Verdana;
+	background-color: rgba(65, 66, 64,0.6);
+	margin: 10px;
+    max-width: 1000px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+	text-align: center;
+	padding: 30px;
+
+}
+button, #grad, select{
+    background-color:rgb(76, 175, 80); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+
+}
+iframe{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+button:hover{
+	background-color: rgba(76, 175, 80,0.5);
+}
+.temper{
+	text-align: left;
+	font-size: 15px;
+	margin: 10px;
+}
+
+
+;
